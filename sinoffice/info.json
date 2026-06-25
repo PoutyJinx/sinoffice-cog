@@ -1,0 +1,13 @@
+{
+  "author": ["PoutyJinx", "NODE-13"],
+  "install_msg": "SIN Office installed. Load it with `[p]load sinoffice`, then configure it with `[p]sinoffice setpostchannel #channel`, `[p]sinoffice setquotechannel #general`, `[p]sinoffice time 10 13`, `[p]sinoffice toggle true`, and `[p]sinoffice test`.",
+  "name": "sinoffice",
+  "short": "Daily SIN Corporation office announcements.",
+  "description": "Posts automated daily SIN Corporation office announcements with lore incidents, positive CEO reminders, and optional Dweller Quotes from one configured public channel.",
+  "tags": ["announcement", "daily", "lore", "sin", "office", "community"],
+  "requirements": [],
+  "min_bot_version": "3.5.0",
+  "hidden": false,
+  "disabled": false,
+  "type": "COG"
+}
